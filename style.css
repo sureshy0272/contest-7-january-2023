@@ -1,0 +1,50 @@
+
+*{
+    background-color: white;
+}
+#section1{
+    font-family: 'Inter';
+    font-style: normal;
+    border: 2px solid black;
+    width: 700px;
+    height: 200px;
+    margin: 10px;
+    padding-left:10px;
+    /* padding-right: 50px; */
+} 
+#heading{
+    text-decoration: underline;
+    padding: 0px;
+}
+    
+#para{
+    
+        /* padding: 10px; */
+        text-align: left;
+    }
+#link{
+    color: black;
+}
+#link:hover{
+    color: rgb(179, 0, 255);
+}
+#section2{
+    border: none;
+    padding-left: 10px;
+}
+#heading2{
+    padding-left: 0px;
+    text-decoration:underline;
+}
+#image{
+    width: 400px;
+    height: 400px;
+}
+#section3{
+    font-family: 'Inter';
+    font-style: normal;
+    padding-left:2px;
+}
+#list{
+    padding-left: 20px;
+}
